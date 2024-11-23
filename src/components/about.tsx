@@ -13,7 +13,7 @@ const About = () => {
           visually engaging user interfaces. With a strong foundation in HTML,
           CSS, TypeScript, and React, I build responsive, interactive
           applications that offer a smooth user experience. My goal is to create
-          clean, efficient code that brings designs to life while prioritizin"
+          clean, efficient code that brings designs to life while prioritizin
           usability and performance.
         </p>
       </div>
